@@ -40,7 +40,7 @@ var Questions = []Question{
 	},
 	{
 		Id:      "3",
-		Text:    "Vilket är Sveriges största insjö?",
+		Text:    "Vilken är Sveriges största insjö?",
 		Choiecs: [3]string{"Vänern", "Vättern", "Mälaren"},
 	},
 	{
